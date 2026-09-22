@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="SNJQtkN-OkhcDbYQKNH4">
-    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
             <mxPoint x="140" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="smqQ3gUCdJO5bQMUpEtf-53" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" value="Báo cho nhà hàng có đơn mới (async)">
+        <mxCell id="smqQ3gUCdJO5bQMUpEtf-53" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" value="Báo cho nhà hàng có đơn mới (async)">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="685" y="585" as="sourcePoint" />
             <mxPoint x="935" y="585" as="targetPoint" />
